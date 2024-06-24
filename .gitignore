@@ -1,0 +1,4 @@
+backend/node_modules/
+expense-tracker-frontend/node_modules/
+node_modules/.bin/
+.env
